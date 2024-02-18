@@ -20,7 +20,7 @@ Here are some details:
 Please consider that these are parameterized test classes, so take that into account. You have to provide at least 4 test cases for each class.
 You are not allowed to change signature of their constructors.
 
-To pass the exercise, your tests must correctly detect flaws of some other sorting method implementations.
+To pass the exercise, your tests must correctly detect flaws of some other solving method implementations.
 There are special tests in several classes that apply your tests to your and some of such ("bad") implementations:
 - [DefaultQuadraticEquationTestingTest](src/test/java/com/epam/rd/autotasks/DefaultQuadraticEquationTestingTest.java)
 - [ParamCarefulIncapableQuadraticEquationTestingTest](src/test/java/com/epam/rd/autotasks/ParamCarefulIncapableQuadraticEquationTestingTest.java)
